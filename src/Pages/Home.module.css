@@ -1,0 +1,25 @@
+.nav{
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 20px;
+}
+
+.li{
+    display: inline;
+    padding: 20px;
+    background-color: rgb(12, 10, 10);
+}
+
+.li:hover{
+    background-color: black;
+    color: white;
+
+}
+.li a{
+    color: white;
+}
+.ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
