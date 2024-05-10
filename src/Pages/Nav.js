@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom"
-import styles from "./Home.module.css"
+import styles from "./Nav.module.css"
 
-function Home() {
+function Nav() {
     return (
         <nav className={styles.nav}>
             <ul className={styles.ul}>
@@ -11,4 +11,4 @@ function Home() {
         </nav>
     )
 }
-export default Home
+export default Nav
